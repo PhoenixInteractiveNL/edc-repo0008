@@ -1,0 +1,5 @@
+What's new:
+
+- fixed freeze loading VisualBoy 1.4.10 save game
+- fixed reset problems on some CGB games
+- fixed 24-bit screen capture

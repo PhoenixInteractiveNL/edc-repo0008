@@ -1,0 +1,7 @@
+v0.226
+FIXED: Debugger. View Memory. Due to updating page accessing.
+FIXED: Debugger. Edit Memory. Due to updating page accessing.
+FIXED: Debugger. Disassembly. Due to updating page accessing.
+FIXED: Debugger. Find bytes/text. Due to updating page accessing.
+FIXED: Keyboard reading. JSW willy would randomly walk/jump.
+FIXED: Options. Wasn't able to select which keyboard issue, was defaulting to issue 3.

@@ -1,0 +1,7 @@
+v0.229:
+ADDED: Load Files. Spud now has a universal file loading routine.
+ADDED: Poke Memory. You can now POKE memory to add cheats and also use the SGD .pok files.
+ADDED: Speed in % in status window.
+ADDED: Current tape loaded now displays in status window (Only in 200% display size.)
+FIXED: Trigger NMI. I inadvertantly broke the menuitem (though it still worked via the keyboard.)
+FIXED: Manic Miner seemed to have a life of it's own so I made a slight adjustment to the keyboard reading routines.

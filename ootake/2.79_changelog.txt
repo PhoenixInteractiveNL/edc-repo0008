@@ -1,0 +1,41 @@
+  2017/03/31 2.79 released
+  - For low-end PC (PC not so fast), the function which can automatically
+    optimize the setting was added.
+    * Even with Intel Atom(Z8350 for Tablet PC, Stick PC) CPU, Ootake operates
+      pretty comfortably at window size up to x2 (full screen 800x600).
+    Here is the optimization method.
+    ==========================================================================
+    Push "Setting" button on the start screen (bottom left on the screen) ->
+    Push "Set CD-DA Play Timing" button (top button) -> OK button ->
+    Push "High Quality PSG (Defalt)" button (top button).
+    Optimization is completed in 60 seconds if your PC has enough speed.
+    In the case of a low-end PC, the fact that power is insufficient is
+    displayed and the setting is automatically lowered. Then, press the OK
+    button and wait 60 seconds again to complete the optimization.
+    ==========================================================================
+  - When Intel built-in graphics is used, it starts with the setting which is
+    lighter(Light PSG. fast) than the default setting.
+  - Add "Message Time 100% - 20%" to the setting menu(above the game screen).
+    It is possible to adjust the display time of system messages.
+  - Supports V-Sync at refresh rate "120 Hz" display output.
+    * For 120Hz compatible display for gamers.
+  - Add "Full Screen 120Hz" to the Screen menu. When this is selected, it can
+    be displayed at 120Hz with full-screen mode.
+    * With the Window mode, if the desktop display is 120Hz, V-Sync will be
+      performed automatically at 120Hz even if this is not selected.
+  - The operation of the PCE built-in sound (wave memory sound) has been
+    brought close to the real machine. In "Cyber Night" and
+    "Fire Pro-Wrestling" series, the problem of sound has been resolved.
+  - Improved Joypad initialization function. If the controller is not
+    functioning correctly, please initialize the pad settings once by clicking
+    "Input -> Initialize Pad # 1 - # 5 (fourth from bottom)" menu.
+  - Fixed a bug that shortcut keys such as Screenshot did not work when
+    reproducing the game play with "Capture -> Play Record (F6 key)" menu.
+  - Additionally, a detailed part has been improved and corrected.
+  + I began Twitter. (Japanese language & a little English language)
+    http://twitter.com/kitao_n
+  * The happiness of the game is the world human race commonness. It longs for
+    peace.
+  * I think that it cannot do improvement & correction of the above-mentioned
+    if there are many neither operation report nor defect report. Thank you
+    really for you who reported.

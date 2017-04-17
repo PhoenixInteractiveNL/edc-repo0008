@@ -1,0 +1,13 @@
+v0.217
+ADDED: +3 emulation
+ADDED: Interface II emulation.
+ADDED: ZX Printer.
+ADDED: Options. Disk selection.
+ADDED: Debugger. Machine Information dialog.
+ADDED: Debugger. Edit ROM option.
+ADDED: Debugger. Find dialog.
+ADDED: Debugger. Copy Memory Block dialog.
+ADDED: Debugger. Fill Memory Block dialog.
+FIXED: Tape Browser issues
+FIXED: FUll screen emulation of D3D.
+FIXED: Timing emulation of +2A/+3 machines.

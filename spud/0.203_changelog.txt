@@ -1,0 +1,7 @@
+v0.203
+ADDED: Spud now loads all 48k .tzx and .tap files.
+ADDED: Standalone disassembly dialog box.
+ADDED: Standalone Memory view dialog box.
+FIXED: Updated the Tape Browser.
+FIXED: Loading a config file crashed Spud, hopefully fixed.
+FIXED: A couple of bugs in the Z80 core (a couple of rarely used instructions).

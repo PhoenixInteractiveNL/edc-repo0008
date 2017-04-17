@@ -1,0 +1,7 @@
+  0.3   - should now work on mac os x (thanks to Adam Green)
+        - basic hle system
+        - function mapper
+        - fixed a few problems with pad emulation
+        - further debugger improvements
+        - killed some ugly cpu bugs
+        - fixes here and there

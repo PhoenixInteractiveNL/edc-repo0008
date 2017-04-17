@@ -1,0 +1,7 @@
+v0.240
+ADDED: Press F1 for instant snapshot save. Enable/disable in Options.
+ADDED: Memory map viewer
+ADDED: Joystick emulation.
+ADDED: Keystick emulation.
+ADDED: Kempston mouse emulation. F7 enables/disables.
+ADDED: Fastload option for tapes. Not instant loading but quite a bit faster.
