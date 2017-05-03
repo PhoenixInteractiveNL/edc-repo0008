@@ -1,0 +1,20 @@
+  2017/04/16 2.80 released
+  - The operation part of the joypad is brought close to the operation of the
+    actual machine. In "Magicoal", the problem that two people play could not
+    be played was solved.
+  - The timing of the operation is brought close to the operation of the
+    actual machine. In "The Legendary Axe II", the problem that the screen was
+    dark one frame at the start demo was solved.
+  - "HES BigAudioBuffer (Frame Skip)" was added to the Audio menu. When this
+    is checked, if the HES file (program for PCE's built-in sound, extension
+    is ".hes") is opened, it is started with BigAudioBuffer mode(sound is
+    delayed but stable processing with a large buffer and omitting the
+    drawing).
+  - Additionally, a detailed part has been improved and corrected.
+  + I began Twitter. (Japanese language & a little English language)
+    http://twitter.com/kitao_n
+  * The happiness of the game is the world human race commonness. It longs for
+    peace.
+  * I think that it cannot do improvement & correction of the above-mentioned
+    if there are many neither operation report nor defect report. Thank you
+    really for you who reported.
